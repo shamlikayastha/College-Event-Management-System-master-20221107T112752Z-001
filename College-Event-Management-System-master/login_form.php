@@ -4,7 +4,7 @@ include_once 'classes/db1.php';?>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>cems</title>
+        <title>Sggs cems</title>
         <title></title>
         <style>
             span.error{
